@@ -6,7 +6,7 @@ zokou({ nomCom: "repo", reaction: "👍", nomFichier: __filename }, async (dest,
     let z = '𝗪𝗛𝗔𝗧"𝗦 𝗨𝗣 𝗠𝗬 𝗚𝙀𝙀 𝗧𝗛𝗜𝗦 𝗜𝗦 LADIESMAN-MD  \n\n ' + "𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗥𝗘𝗣𝗢 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗬𝗢𝗨𝗥 𝗢𝗪𝗡 𝗕𝗢𝗧 *LADIESMAN-MD 𝗥𝗘𝗣𝗢.*";
     let d = ' https://github.com/ibrahimaitech/LADIESMAN-MD';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg';
+    var img = 'https://telegra.ph/file/b8b4422323bbec301a8bd.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
