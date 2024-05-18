@@ -1,9 +1,9 @@
 {
-  "name":"IBRAHIM-AI-10.10",
-  "description":"bot whatsapp développé par France King",
+  "name":LADIESMAN MD",
+  "description":"bot whatsapp développé par Ibrahim Adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/b8b4422323bbec301a8bd.jpg",
+  "repository":"https://github.com/ibrahimaitech/LADIESMAN MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗",
+      "value":"LADIESMAN MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/75c2f32d509575f860084.jpg",
+      "value":"https://telegra.ph/file/b8b4422323bbec301a8bd.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR IBRAHIM"
+    "value": "LADIESMAN"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "256742477536"
   },
     "WARN_COUNT":
   {
