@@ -858,10 +858,10 @@ ${metadata.desc}
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `
-*『𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗 CONNECTED 』*
+*『LADIESMAN MD CONNECTED 』*
 
      
-║❒Creator: *IBRAHIM ADAMS*
+║❒Creator: *LADIESMAN MD*
 ║❒Prefix : [ ${prefixe} ]
 ║❒Mode :${md}
 ║❒Created on : *22.2.2024*
@@ -872,10 +872,10 @@ ${metadata.desc}
 
 
 ║❒ *JOIN OUR WhatsApp Gʀᴏᴜᴘ*
-https://chat.whatsapp.com/JE3gJsV15ly9ViU6lgw0GD
+https://chat.whatsapp.com/LQhSrYvT3o37205SuKGak4
 
-║❒ *CONTACT THE DEVELOPER* 🪄 
-https://wa.me/message/74F2PC4JA4F3P1
+║❒ *WACHANNEL* 🪄 
+https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C
 
 ║❒ *YOUTUBE*
 https://www.youtube.com/@ibrahimaitech
@@ -883,7 +883,7 @@ https://www.youtube.com/@ibrahimaitech
 
 
 
-              *𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗠𝗗*`;
+              *LADIESMAN MD*`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
