@@ -2,11 +2,11 @@
   "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "s": "node index.js",
+    "bmwmd": "pm2 start index.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
